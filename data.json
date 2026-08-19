@@ -1,0 +1,41 @@
+{
+    "users": {
+        "مجلس القيادة": {
+            "team": [
+                "أبو ملهم",
+                "الليث",
+                "مجاهد",
+                "سالم",
+                "مجد الدين",
+                "حذيفة",
+                "معاذ"
+            ],
+            "tasks": [
+                {
+                    "title": "تسليم تقرير",
+                    "member": "الليث",
+                    "deadline": "2026-01-12",
+                    "done": true,
+                    "completed_at": "2026-01-11",
+                    "status": "on_time"
+                },
+                {
+                    "title": "تسليم تقرير",
+                    "member": "مجاهد",
+                    "deadline": "2026-01-11",
+                    "done": true,
+                    "completed_at": "2026-01-11",
+                    "status": "on_time"
+                },
+                {
+                    "title": "تسليم تقرير",
+                    "member": "سالم",
+                    "deadline": "2026-01-10",
+                    "done": true,
+                    "completed_at": "2026-01-11",
+                    "status": "late"
+                }
+            ]
+        }
+    }
+}
